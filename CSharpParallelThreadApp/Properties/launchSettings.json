@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CSharpParallelThreadApp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "QA"
+      }
+    }
+  }
+}
